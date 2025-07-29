@@ -29,7 +29,7 @@ const Login = () => {
           <div className="flex justify-center">
             <Calendar className="h-12 w-12 text-blue-600" />
           </div>
-          <h2 className="mt-6 text-3xl font-extrabold text-gray-900">Sign in to TodoMaster</h2>
+          <h2 className="mt-6 text-3xl font-extrabold text-gray-900">Sign in to Prioritix</h2>
           <p className="mt-2 text-sm text-gray-600">
             Or{" "}
             <Link to="/register" className="font-medium text-blue-600 hover:text-blue-500">
